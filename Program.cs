@@ -4,7 +4,9 @@ class Program
     static void Main(string[] args)
     {
         //****************************
+
         Console.WriteLine("***********İşlemli Atama Ve Atama Operatörleri**************");
+
         //İşlemli Atama Ve Atama Operatörleri
 
         int x = 3;
@@ -26,7 +28,9 @@ class Program
 
 
         //****************************
+
         Console.WriteLine("***********Mantıksal Operatörler**************");
+
         //Mantıksal Operatörler
 
         // ||(veya), &&(ve), !(değil)
@@ -53,7 +57,9 @@ class Program
 
 
         //****************************
+        
         Console.WriteLine("***********İlişkisel Operatörler**************");
+
         //İlişkisel Operatörler
 
         // <(küçüktür), >(büyüktür), <=(küçük eşittir), >=(büyük eşittir), ==(eşittir), !=(eşit değildir)
@@ -81,7 +87,9 @@ class Program
 
 
         //****************************
+
         Console.WriteLine("***********Aritmetik Operatörler**************");
+        
         //Aritmetik Operatörler
 
         // /(bölü), *(çarpı), +(artı), -(eksi), %(mod alma)

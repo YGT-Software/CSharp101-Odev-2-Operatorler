@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\muaze\\Desktop\\C#101-Ödev-2-Operatörler\\C#101-Ödev-2-Operatörler.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\muaze\\Desktop\\C#101-Ödev-2-Operatörler\\C#101-Ödev-2-Operatörler.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\muaze\\Desktop\\C#101-Ödev-2-Operatörler\\C#101-Ödev-2-Operatörler.csproj",
+        "projectName": "C#101-Ödev-2-Operatörler",
+        "projectPath": "c:\\Users\\muaze\\Desktop\\C#101-Ödev-2-Operatörler\\C#101-Ödev-2-Operatörler.csproj",
+        "packagesPath": "C:\\Users\\muaze\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\muaze\\Desktop\\C#101-Ödev-2-Operatörler\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\muaze\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.405\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

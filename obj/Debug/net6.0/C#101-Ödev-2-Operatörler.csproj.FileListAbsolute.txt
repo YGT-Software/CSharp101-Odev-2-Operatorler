@@ -1,0 +1,15 @@
+c:\Users\muaze\Desktop\C#101-Ödev-2-Operatörler\bin\Debug\net6.0\C#101-Ödev-2-Operatörler.exe
+c:\Users\muaze\Desktop\C#101-Ödev-2-Operatörler\bin\Debug\net6.0\C#101-Ödev-2-Operatörler.deps.json
+c:\Users\muaze\Desktop\C#101-Ödev-2-Operatörler\bin\Debug\net6.0\C#101-Ödev-2-Operatörler.runtimeconfig.json
+c:\Users\muaze\Desktop\C#101-Ödev-2-Operatörler\bin\Debug\net6.0\C#101-Ödev-2-Operatörler.dll
+c:\Users\muaze\Desktop\C#101-Ödev-2-Operatörler\bin\Debug\net6.0\C#101-Ödev-2-Operatörler.pdb
+c:\Users\muaze\Desktop\C#101-Ödev-2-Operatörler\obj\Debug\net6.0\C#101-Ödev-2-Operatörler.csproj.AssemblyReference.cache
+c:\Users\muaze\Desktop\C#101-Ödev-2-Operatörler\obj\Debug\net6.0\C#101-Ödev-2-Operatörler.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\muaze\Desktop\C#101-Ödev-2-Operatörler\obj\Debug\net6.0\C#101-Ödev-2-Operatörler.AssemblyInfoInputs.cache
+c:\Users\muaze\Desktop\C#101-Ödev-2-Operatörler\obj\Debug\net6.0\C#101-Ödev-2-Operatörler.AssemblyInfo.cs
+c:\Users\muaze\Desktop\C#101-Ödev-2-Operatörler\obj\Debug\net6.0\C#101-Ödev-2-Operatörler.csproj.CoreCompileInputs.cache
+c:\Users\muaze\Desktop\C#101-Ödev-2-Operatörler\obj\Debug\net6.0\C#101-Ödev-2-Operatörler.dll
+c:\Users\muaze\Desktop\C#101-Ödev-2-Operatörler\obj\Debug\net6.0\refint\C#101-Ödev-2-Operatörler.dll
+c:\Users\muaze\Desktop\C#101-Ödev-2-Operatörler\obj\Debug\net6.0\C#101-Ödev-2-Operatörler.pdb
+c:\Users\muaze\Desktop\C#101-Ödev-2-Operatörler\obj\Debug\net6.0\C#101-Ödev-2-Operatörler.genruntimeconfig.cache
+c:\Users\muaze\Desktop\C#101-Ödev-2-Operatörler\obj\Debug\net6.0\ref\C#101-Ödev-2-Operatörler.dll
